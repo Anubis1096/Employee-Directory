@@ -16,7 +16,7 @@ The user should be able to:
 -Filter the users by at least one property.
 
 # Link to Deployed Application
-
+Cannot presently get app to work through Heroku
 
 # Screenshot
 ![empdir](https://user-images.githubusercontent.com/65513935/96963319-54dbd680-14bd-11eb-8248-85de876b4312.JPG)
